@@ -69,7 +69,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Uday-Jav/Uday-Jav/output/github-contribution-grid-snake.svg" />
 </p>
+---
 
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uday-Jav&theme=tokyonight" />
+</p>
 ---
 
 ## 🚀 Featured Projects
