@@ -80,9 +80,9 @@
 
 ## 🚀 Featured Projects
 
-* 🔹 WebRTC Video Calling App
-* 🔹 Chrome Price Tracker Extension
-* 🔹 Appointment Scheduling System (MERN)
+* 🔹 Routerent app/website(MERN)
+* 🔹 Clothing website
+* 🔹MediVault website
 
 ---
 
