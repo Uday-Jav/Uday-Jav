@@ -22,19 +22,25 @@
 
 ## 🚀 About Me
 
-* 🔭 Building **real-world projects & tools**
-* 🌱 Learning **Advanced Full Stack + System Design**
-* 💡 Love working on **WebRTC, Extensions & Automation**
-* ⚡ Fun fact: I debug faster with coffee ☕ + music 🎧
+- 🔭 Building **real-world projects & tools**
+- 🌱 Learning **Advanced Full Stack + System Design**
+- 💡 Love working on **WebRTC, Extensions & Automation**
+- ⚡ Fun fact: I debug faster with coffee ☕ + music 🎧
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Uday-Jav"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://github.com/Uday-Jav">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
 </p>
 
 ---
@@ -50,8 +56,57 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Jav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Jav&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Uday-Jav&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Jav&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uday-Jav&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Uday-Jav/Uday-Jav/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uday-Jav&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ Fun Zone
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uday-Jav&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- 💡 FOOTER -->
+
+<p align="center">
+  ✨ “Code. Build. Break. Fix. Repeat.” ✨
+</p>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uday-Jav&theme=tokyonight" />
 </p>
 
 ---
