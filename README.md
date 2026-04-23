@@ -1,7 +1,7 @@
 <!-- 🌌 HEADER -->
 
 <h1 align="center">Hi 👋, I'm Uday</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Builder of Cool Stuff</h3>
+<h3 align="center">🚀 Full Stack Developer | PERN | Builder of Cool Stuff</h3>
 
 <!-- 🧠 TYPING ANIMATION -->
 
